@@ -1,0 +1,10 @@
+birthday1="May 24"
+print("Kate = ",birthday1)
+birthday2="Oct 5"
+print("Oscar = ",birthday2)
+birthday3="Dec 16"
+print("Marcus = ",birthday3)
+birthday4="Feb 9"
+print("Bobby = ",birthday4)
+birthday5="Jan 18"
+print("Favour = ",birthday5)
